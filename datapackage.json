@@ -1,0 +1,189 @@
+{
+  "name": "prescription-drug-misuse",
+  "datapackage_version": "1.0-beta.18",
+  "title": "Prescription Drug Misuse",
+  "description": "Prescription Drug Misuse reports the prevalence of the misuse of prescription pain killers by age range.",
+  "version": "1.0",
+  "licenses": [{
+    "url": "http://opendatacommons.org/licenses/pddl/",
+    "name": "Open Data Commons Public Domain",
+    "version": "1.0",
+    "id": "odc-pddl"
+  }],
+  "sources": [{
+    "name": "samhsa",
+    "web": ""
+  }],
+  "author":[{
+    "name": "Jenna Daly",
+    "email": "jdaly@ctdata.org",
+    "web": "http://ctdata.org"
+  }],
+  "contributor": [],
+  "resources": [{
+    "path": "data/prescription-drug-misuse-2014.csv",
+    "format": "csv",
+    "schema": {
+      "fields": [{
+          "name": "Region",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "FIPS",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Year",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Age Range",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["12-17",
+                     "18-25",
+                     "Over 17",
+                     "Over 25"
+            ]
+          }
+        }, {    
+          "name": "Prescription Drug Misuse",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Nonmedical Use of Pain Relievers in the Past Year"]
+          }
+        }, {              
+          "name": "Measure Type",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Percent"]
+          }
+        }, {
+          "name": "Variable",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Prescription Drug Misuse", 
+                     "Margins of Error"]
+          }
+        }, {
+          "name": "Value",
+          "type": "number",
+          "dimension": false
+        }]
+      }
+    }
+  ],
+  "last_modified": "08/27/2018",
+  "ckan_extras": {
+    "full_description": {
+      "ckan_name": "Full Description",
+      "value": "Prescription Drug Misuse reports an estimated average percent of people who consumed prescription-type pain relievers that were either not prescribed for them, or taken for the sole purpose of the experience or feeling the cause. Pain relievers specifically named in the survery included Darvocet, Darvon, Tylenol with Codeine, Percocet, Percodan, Tylox,Vicodin, Lortab, Lorcet,Codeine, Demerol, Dilaudid, Fioricet, Fiorinal, Hydrocodone, Methadone, Morphine, OxyContin, Phenaphen with Codeine, Propoxyphene, SK-65, Stadol, Talacen, Talwin, Talwin NX, Tramadol (not pictured), and Ultram. Respondants were also asked to include any other prescription pain relievers not specifically mentioned when considering their response. These data are collected by the Substance Abuse and Mental Health Services Administration (SAMHSA) as part of the National Survey on Drug Use and Health (NSDUH) Substate Region Estimates by Age Group. This survey is conducted on a representative sample of U.S. civilian, non-institutionalized people ages 12 and older. Data are available for the state of Connecticut, substate region within Connecticut, the Northeast region of the United States, and the Total United States.",
+      "type": "string"
+    },
+    "suppression": {
+      "ckan_name": "Suppression",
+      "value": "Low precision estimates for small geographic areas have been suppressed.",
+      "type": "string"
+    },
+    "technical_notes": {
+      "ckan_name": "Technical Notes",
+      "value": "Margins of Error are reported with a 95% confidence interval.",
+      "type": "string"
+    },
+    "socrata": {
+      "ckan_name": "Socrata",
+      "value": "False",
+      "type": "string"
+    },
+    
+    "socrata_url": {
+      "ckan_name": "Socrata Dataset URL",
+      "value": "",
+      "type": "string"
+    },
+    "socrata_dataset_name": {
+      "ckan_name": "Socrata Dataset Name",
+      "value": "",
+      "type": "string"
+    }, 
+    
+    "domain": {
+      "ckan_name": "Domain",
+      "value": "Health",
+      "type": "string"
+    },
+    "subdomain": {
+      "ckan_name": "Subdomain",
+      "value": "Substance Abuse",
+      "type": "string"
+    },
+    "geography": {
+      "ckan_name": "Geography",
+      "value": "Region",
+      "type": "string",
+      "constraints": {"enum": ["Town", "County", "Town/County", "District", "Other"]}
+    },
+    "frequency": {
+      "ckan_name": "Frequency",
+      "value": "Other",
+      "type": "string"
+    },
+    "years_in_catalog": {
+      "ckan_name": "Years in Catalog",
+      "value": ["2004-2006", "2006-2008", "2008-2010", "2010-2012", "2012-2014"],
+      "type": "array"
+    },
+    "latest_year": {
+      "ckan_name": "Latest Year Available",
+      "value": "2012-2014",
+      "type": "string"
+    },
+    "disabled_views": {
+      "ckan_name": "Disabled Views",
+      "value": [],
+      "type": "array",
+      "constraints": {"enum": ["map", "table", "bar", "line"]}
+    },
+    "units": {
+      "ckan_name": "Units",
+      "value": {
+        "Number": "",
+        "Percent": "%"
+      }
+    },
+    "expected_number_of_geographies": {
+      "ckan_name": "Expected Number of Unique Geographies",
+      "value": 8,
+       "type": "string"
+      },  
+    "default": {      
+      "ckan_name": "Default",
+      "value": {
+        "Region": ["Connecticut"], 
+        "Year": "2012-2014",
+        "Measure Type": ["Percent"],
+        "Variable": ["Prescription Drug Misuse"]
+      },
+      "type": "object"
+    }  
+  },
+  "spot_checks": [
+
+  ],
+  "dimension_groups": [
+    {
+      "Age Range": ["12-17",
+                    "18-25",
+                    "Over 17",
+                    "Over 25"],
+      "Prescription Drug Misuse": ["Nonmedical Use of Pain Relievers in the Past Year"],
+      "Measure Type": ["Percent"],
+      "Variable": ["Prescription Drug Misuse", 
+                   "Margins of Error"]
+    }
+  ]
+}
