@@ -1,321 +1,321 @@
 "Region","Year","Age Range","Prescription Drug Misuse","Measure Type","Variable","Value"
-"Connecticut","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.12464285714286"
-"Connecticut","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","6.51"
-"Connecticut","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.03526785714286"
-"Connecticut","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","14.77"
-"Connecticut","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.751160714285714"
-"Connecticut","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.93"
-"Connecticut","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.76375"
-"Connecticut","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.43"
-"Connecticut","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.914821428571428"
-"Connecticut","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.97"
-"Connecticut","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.69955357142857"
-"Connecticut","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.34"
-"Connecticut","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.709196428571429"
-"Connecticut","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.98"
-"Connecticut","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.679821428571429"
-"Connecticut","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.83"
-"Connecticut","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.902232142857143"
-"Connecticut","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.87"
-"Connecticut","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.63241071428571"
-"Connecticut","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","10.36"
-"Connecticut","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.692410714285714"
-"Connecticut","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.78"
-"Connecticut","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.675625"
-"Connecticut","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.71"
-"Connecticut","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.931607142857143"
-"Connecticut","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.69"
-"Connecticut","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.50651785714286"
-"Connecticut","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","9.60"
-"Connecticut","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.730178571428572"
-"Connecticut","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.07"
-"Connecticut","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.742767857142857"
-"Connecticut","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.21"
-"Connecticut","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.905333685446429"
-"Connecticut","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.68998664"
-"Connecticut","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.44958058839286"
-"Connecticut","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","8.52245519"
-"Connecticut","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.630177653392857"
-"Connecticut","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.53671399"
-"Connecticut","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.640879175714286"
-"Connecticut","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.74136197"
-"Eastern Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.06883928571429"
-"Eastern Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","6.83"
+"Connecticut","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.12
+"Connecticut","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",6.51
+"Connecticut","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.04
+"Connecticut","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",14.77
+"Connecticut","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.75
+"Connecticut","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.93
+"Connecticut","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.76
+"Connecticut","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.43
+"Connecticut","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.91
+"Connecticut","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.97
+"Connecticut","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.7
+"Connecticut","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.34
+"Connecticut","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.71
+"Connecticut","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.98
+"Connecticut","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.68
+"Connecticut","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.83
+"Connecticut","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.9
+"Connecticut","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.87
+"Connecticut","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.63
+"Connecticut","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",10.36
+"Connecticut","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.69
+"Connecticut","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.78
+"Connecticut","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.68
+"Connecticut","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.71
+"Connecticut","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.93
+"Connecticut","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.69
+"Connecticut","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.51
+"Connecticut","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",9.6
+"Connecticut","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.73
+"Connecticut","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.07
+"Connecticut","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.74
+"Connecticut","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.21
+"Connecticut","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.91
+"Connecticut","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.69
+"Connecticut","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.45
+"Connecticut","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",8.52
+"Connecticut","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.63
+"Connecticut","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.54
+"Connecticut","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.64
+"Connecticut","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.74
+"Eastern Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.07
+"Eastern Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",6.83
 "Eastern Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",-9999
-"Eastern Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","*"
-"Eastern Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.50651785714286"
-"Eastern Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.63"
-"Eastern Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.35544642857143"
-"Eastern Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.54"
-"Eastern Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.72892857142857"
-"Eastern Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.75"
-"Eastern Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","3.084375"
-"Eastern Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.27"
-"Eastern Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.175"
-"Eastern Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.34"
-"Eastern Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.028125"
-"Eastern Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.90"
-"Eastern Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.81285714285714"
-"Eastern Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.68"
-"Eastern Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.52205357142857"
-"Eastern Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","10.32"
-"Eastern Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.10785714285714"
-"Eastern Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.14"
-"Eastern Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.0575"
-"Eastern Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.84"
-"Eastern Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.48133928571429"
-"Eastern Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.58"
-"Eastern Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.40455357142857"
-"Eastern Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","8.92"
-"Eastern Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.09107142857143"
-"Eastern Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.09"
-"Eastern Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.07008928571429"
-"Eastern Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.05"
-"Eastern Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.180570645625"
-"Eastern Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.57827736"
-"Eastern Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.21844655517857"
-"Eastern Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","8.91846177"
-"Eastern Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.950398552767857"
-"Eastern Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.96517358"
-"Eastern Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.932885370803571"
-"Eastern Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.92437264"
-"North Central Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.77089285714286"
-"North Central Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","6.36"
-"North Central Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","3.21866071428571"
-"North Central Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","13.61"
-"North Central Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.12044642857143"
-"North Central Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.54"
-"North Central Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.12044642857143"
-"North Central Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.21"
-"North Central Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.37642857142857"
-"North Central Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.11"
-"North Central Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.71089285714286"
-"North Central Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.40"
-"North Central Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.973571428571429"
-"North Central Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.92"
-"North Central Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.914821428571429"
-"North Central Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.78"
-"North Central Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.13723214285714"
-"North Central Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.08"
-"North Central Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.18214285714286"
-"North Central Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","9.42"
-"North Central Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.877053571428572"
-"North Central Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.29"
-"North Central Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.856071428571429"
-"North Central Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.33"
-"North Central Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.27571428571429"
-"North Central Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.32"
-"North Central Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.28705357142857"
-"North Central Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","9.61"
-"North Central Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.00714285714286"
-"North Central Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.97"
-"North Central Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.01973214285714"
-"North Central Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.13"
-"North Central Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.20982021017857"
-"North Central Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.62593583"
-"North Central Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.30091695580357"
-"North Central Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","9.41213731"
-"North Central Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.925227073303571"
-"North Central Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.80664248"
-"North Central Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.917533488035714"
-"North Central Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.94690386"
-"Northeast","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.381875"
-"Northeast","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","6.22"
-"Northeast","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.545535714285714"
-"Northeast","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.78"
-"Northeast","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.235"
-"Northeast","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.24"
-"Northeast","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.251785714285714"
-"Northeast","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.02"
-"Northeast","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.3525"
-"Northeast","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.48"
-"Northeast","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.541339285714285"
-"Northeast","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.36"
-"Northeast","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.239196428571429"
-"Northeast","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.17"
-"Northeast","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.247589285714286"
-"Northeast","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.98"
-"Northeast","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.339910714285715"
-"Northeast","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.31"
-"Northeast","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.541339285714285"
-"Northeast","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.86"
-"Northeast","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.247589285714286"
-"Northeast","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.32"
-"Northeast","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.255982142857143"
-"Northeast","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.06"
-"Northeast","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.356696428571429"
-"Northeast","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.00"
-"Northeast","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.478392857142857"
-"Northeast","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","9.69"
-"Northeast","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.255982142857143"
-"Northeast","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.11"
-"Northeast","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.272767857142857"
-"Northeast","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.17"
-"Northeast","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.319612207410714"
-"Northeast","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.01371805"
-"Northeast","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.495511289464286"
-"Northeast","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","8.40354986"
-"Northeast","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.237573883660714"
-"Northeast","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.80507619"
-"Northeast","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.252973777767857"
-"Northeast","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.04070771"
-"Northwestern Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.19473214285714"
-"Northwestern Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","7.82"
-"Northwestern Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","4.05794642857143"
-"Northwestern Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","17.81"
-"Northwestern Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.43098214285714"
-"Northwestern Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.72"
-"Northwestern Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.42678571428571"
-"Northwestern Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.05"
-"Northwestern Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.44357142857143"
-"Northwestern Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.03"
-"Northwestern Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.966875"
-"Northwestern Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.94"
-"Northwestern Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.02392857142857"
-"Northwestern Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.95"
-"Northwestern Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.952589285714286"
-"Northwestern Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.81"
-"Northwestern Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.72053571428571"
-"Northwestern Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.82"
-"Northwestern Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.74026785714286"
-"Northwestern Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.92"
-"Northwestern Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.27151785714286"
-"Northwestern Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.39"
-"Northwestern Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.25473214285714"
-"Northwestern Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.27"
-"Northwestern Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.615625"
-"Northwestern Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.24"
-"Northwestern Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.85357142857143"
-"Northwestern Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","10.31"
-"Northwestern Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.204375"
-"Northwestern Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.26"
-"Northwestern Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.19178571428571"
-"Northwestern Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.44"
-"Northwestern Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.21488155625"
-"Northwestern Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.77788113"
-"Northwestern Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.09695278053571"
-"Northwestern Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","7.95212516"
-"Northwestern Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.854731706160714"
-"Northwestern Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.20584063"
-"Northwestern Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.852989122410714"
-"Northwestern Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.54467341"
-"South Central Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.72473214285714"
-"South Central Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.85"
-"South Central Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","3.34455357142857"
-"South Central Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","13.89"
-"South Central Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.12464285714286"
-"South Central Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.51"
-"South Central Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.07848214285714"
-"South Central Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.02"
-"South Central Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.41419642857143"
-"South Central Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.90"
-"South Central Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.56821428571429"
-"South Central Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.41"
-"South Central Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.990357142857143"
-"South Central Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.98"
-"South Central Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.948392857142857"
-"South Central Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.79"
-"South Central Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.48133928571429"
-"South Central Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.22"
-"South Central Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.379375"
-"South Central Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","10.95"
-"South Central Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.028125"
-"South Central Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.98"
-"South Central Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.01973214285714"
-"South Central Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.85"
-"South Central Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.47294642857143"
-"South Central Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.99"
-"South Central Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.32901785714286"
-"South Central Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","10.30"
-"South Central Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.07428571428571"
-"South Central Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.34"
-"South Central Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.10366071428571"
-"South Central Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.38"
-"South Central Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.19878361982143"
-"South Central Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.5665708"
-"South Central Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.03828612580357"
-"South Central Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","7.9983265"
-"South Central Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.872596196339286"
-"South Central Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.42469631"
-"South Central Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.879116254553571"
-"South Central Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.67429597"
-"Southwest Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.89258928571429"
-"Southwest Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","6.06"
-"Southwest Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","3.75580357142857"
-"Southwest Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","14.13"
-"Southwest Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.380625"
-"Southwest Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.86"
-"Southwest Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.38901785714286"
-"Southwest Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.61"
-"Southwest Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.30928571428571"
-"Southwest Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.33"
-"Southwest Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.74866071428571"
-"Southwest Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","10.65"
-"Southwest Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.06169642857143"
-"Southwest Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.87"
-"Southwest Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.04071428571429"
-"Southwest Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.94"
-"Southwest Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.31348214285714"
-"Southwest Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.27"
-"Southwest Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.438125"
-"Southwest Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","9.61"
-"Southwest Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.00294642857143"
-"Southwest Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.43"
-"Southwest Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.973571428571429"
-"Southwest Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.52"
-"Southwest Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.439375"
-"Southwest Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.43"
-"Southwest Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.47589285714286"
-"Southwest Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","8.64"
-"Southwest Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.10366071428571"
-"Southwest Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.7"
-"Southwest Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.09946428571429"
-"Southwest Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.00"
-"Southwest Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","1.27483326232143"
-"Southwest Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.88502569"
-"Southwest Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","2.12912202285714"
-"Southwest Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","8.02330071"
-"Southwest Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.862096110982143"
-"Southwest Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.29632801"
-"Southwest Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.852092077053571"
-"Southwest Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","2.58679048"
-"United States","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",-9999
-"United States","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","7.14"
-"United States","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",-9999
-"United States","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","12.19"
-"United States","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",-9999
-"United States","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.63"
-"United States","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",-9999
-"United States","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.31"
-"United States","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.218214285714286"
-"United States","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","6.80"
-"United States","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.297946428571428"
-"United States","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","12.31"
-"United States","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.134285714285714"
-"United States","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.83"
-"United States","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.146875"
-"United States","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.54"
-"United States","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.205625"
-"United States","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","6.42"
-"United States","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.29375"
-"United States","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","11.74"
-"United States","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.134285714285714"
-"United States","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.7"
-"United States","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.146875"
-"United States","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.48"
-"United States","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.193035714285714"
-"United States","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","5.85"
-"United States","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.281160714285714"
-"United States","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","10.29"
-"United States","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.134285714285714"
-"United States","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.5"
-"United States","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.146875"
-"United States","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.50"
-"United States","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.187260148660714"
-"United States","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.8923276"
-"United States","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.262549763392857"
-"United States","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","8.92271964"
-"United States","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.127320167410714"
-"United States","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","4.24392385"
-"United States","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error","0.140137587767857"
-"United States","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse","3.4419575"
+"Eastern Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",-9999
+"Eastern Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.51
+"Eastern Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.63
+"Eastern Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.36
+"Eastern Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.54
+"Eastern Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.73
+"Eastern Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.75
+"Eastern Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",3.08
+"Eastern Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.27
+"Eastern Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.18
+"Eastern Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.34
+"Eastern Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.03
+"Eastern Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.9
+"Eastern Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.81
+"Eastern Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.68
+"Eastern Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.52
+"Eastern Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",10.32
+"Eastern Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.11
+"Eastern Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.14
+"Eastern Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.06
+"Eastern Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.84
+"Eastern Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.48
+"Eastern Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.58
+"Eastern Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.4
+"Eastern Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",8.92
+"Eastern Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.09
+"Eastern Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.09
+"Eastern Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.07
+"Eastern Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.05
+"Eastern Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.18
+"Eastern Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.58
+"Eastern Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.22
+"Eastern Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",8.92
+"Eastern Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.95
+"Eastern Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.97
+"Eastern Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.93
+"Eastern Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.92
+"North Central Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.77
+"North Central Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",6.36
+"North Central Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",3.22
+"North Central Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",13.61
+"North Central Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.12
+"North Central Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.54
+"North Central Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.12
+"North Central Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.21
+"North Central Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.38
+"North Central Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.11
+"North Central Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.71
+"North Central Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.4
+"North Central Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.97
+"North Central Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.92
+"North Central Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.91
+"North Central Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.78
+"North Central Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.14
+"North Central Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.08
+"North Central Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.18
+"North Central Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",9.42
+"North Central Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.88
+"North Central Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.29
+"North Central Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.86
+"North Central Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.33
+"North Central Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.28
+"North Central Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.32
+"North Central Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.29
+"North Central Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",9.61
+"North Central Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.01
+"North Central Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.97
+"North Central Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.02
+"North Central Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.13
+"North Central Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.21
+"North Central Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.63
+"North Central Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.3
+"North Central Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",9.41
+"North Central Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.93
+"North Central Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.81
+"North Central Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.92
+"North Central Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.95
+"Northeast","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.38
+"Northeast","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",6.22
+"Northeast","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.55
+"Northeast","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.78
+"Northeast","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.24
+"Northeast","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.24
+"Northeast","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.25
+"Northeast","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.02
+"Northeast","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.35
+"Northeast","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.48
+"Northeast","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.54
+"Northeast","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.36
+"Northeast","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.24
+"Northeast","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.17
+"Northeast","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.25
+"Northeast","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.98
+"Northeast","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.34
+"Northeast","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.31
+"Northeast","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.54
+"Northeast","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.86
+"Northeast","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.25
+"Northeast","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.32
+"Northeast","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.26
+"Northeast","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.06
+"Northeast","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.36
+"Northeast","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5
+"Northeast","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.48
+"Northeast","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",9.69
+"Northeast","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.26
+"Northeast","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.11
+"Northeast","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.27
+"Northeast","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.17
+"Northeast","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.32
+"Northeast","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.01
+"Northeast","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.5
+"Northeast","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",8.4
+"Northeast","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.24
+"Northeast","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.81
+"Northeast","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.25
+"Northeast","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.04
+"Northwestern Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.19
+"Northwestern Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",7.82
+"Northwestern Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",4.06
+"Northwestern Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",17.81
+"Northwestern Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.43
+"Northwestern Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.72
+"Northwestern Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.43
+"Northwestern Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.05
+"Northwestern Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.44
+"Northwestern Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.03
+"Northwestern Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.97
+"Northwestern Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.94
+"Northwestern Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.02
+"Northwestern Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.95
+"Northwestern Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.95
+"Northwestern Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.81
+"Northwestern Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.72
+"Northwestern Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.82
+"Northwestern Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.74
+"Northwestern Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.92
+"Northwestern Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.27
+"Northwestern Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.39
+"Northwestern Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.25
+"Northwestern Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.27
+"Northwestern Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.62
+"Northwestern Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.24
+"Northwestern Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.85
+"Northwestern Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",10.31
+"Northwestern Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.2
+"Northwestern Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.26
+"Northwestern Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.19
+"Northwestern Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.44
+"Northwestern Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.21
+"Northwestern Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.78
+"Northwestern Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.1
+"Northwestern Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",7.95
+"Northwestern Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.85
+"Northwestern Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.21
+"Northwestern Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.85
+"Northwestern Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.54
+"South Central Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.72
+"South Central Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.85
+"South Central Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",3.34
+"South Central Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",13.89
+"South Central Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.12
+"South Central Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.51
+"South Central Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.08
+"South Central Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.02
+"South Central Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.41
+"South Central Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.9
+"South Central Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.57
+"South Central Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.41
+"South Central Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.99
+"South Central Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.98
+"South Central Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.95
+"South Central Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.79
+"South Central Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.48
+"South Central Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.22
+"South Central Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.38
+"South Central Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",10.95
+"South Central Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.03
+"South Central Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.98
+"South Central Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.02
+"South Central Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.85
+"South Central Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.47
+"South Central Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.99
+"South Central Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.33
+"South Central Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",10.3
+"South Central Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.07
+"South Central Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.34
+"South Central Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.1
+"South Central Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.38
+"South Central Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.2
+"South Central Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.57
+"South Central Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.04
+"South Central Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",8
+"South Central Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.87
+"South Central Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.42
+"South Central Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.88
+"South Central Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.67
+"Southwest Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.89
+"Southwest Region","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",6.06
+"Southwest Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",3.76
+"Southwest Region","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",14.13
+"Southwest Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.38
+"Southwest Region","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.86
+"Southwest Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.39
+"Southwest Region","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.61
+"Southwest Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.31
+"Southwest Region","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.33
+"Southwest Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.75
+"Southwest Region","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",10.65
+"Southwest Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.06
+"Southwest Region","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.87
+"Southwest Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.04
+"Southwest Region","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.94
+"Southwest Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.31
+"Southwest Region","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.27
+"Southwest Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.44
+"Southwest Region","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",9.61
+"Southwest Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1
+"Southwest Region","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.43
+"Southwest Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.97
+"Southwest Region","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.52
+"Southwest Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.44
+"Southwest Region","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.43
+"Southwest Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.48
+"Southwest Region","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",8.64
+"Southwest Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.1
+"Southwest Region","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.7
+"Southwest Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.1
+"Southwest Region","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3
+"Southwest Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",1.27
+"Southwest Region","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.89
+"Southwest Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",2.13
+"Southwest Region","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",8.02
+"Southwest Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.86
+"Southwest Region","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.3
+"Southwest Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.85
+"Southwest Region","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",2.59
+"United States","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0
+"United States","2004-2006","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",7.14
+"United States","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0
+"United States","2004-2006","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",12.19
+"United States","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0
+"United States","2004-2006","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.63
+"United States","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0
+"United States","2004-2006","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.31
+"United States","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.22
+"United States","2006-2008","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",6.8
+"United States","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.3
+"United States","2006-2008","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",12.31
+"United States","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.13
+"United States","2006-2008","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.83
+"United States","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.15
+"United States","2006-2008","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.54
+"United States","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.21
+"United States","2008-2010","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",6.42
+"United States","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.29
+"United States","2008-2010","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",11.74
+"United States","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.13
+"United States","2008-2010","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.7
+"United States","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.15
+"United States","2008-2010","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.48
+"United States","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.19
+"United States","2010-2012","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",5.85
+"United States","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.28
+"United States","2010-2012","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",10.29
+"United States","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.13
+"United States","2010-2012","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.5
+"United States","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.15
+"United States","2010-2012","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.5
+"United States","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.19
+"United States","2012-2014","12-17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.89
+"United States","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.26
+"United States","2012-2014","18-25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",8.92
+"United States","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.13
+"United States","2012-2014","Over 17","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",4.24
+"United States","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Margins of Error",0.14
+"United States","2012-2014","Over 25","Nonmedical Use of Pain Relievers in the Past Year","Percent","Prescription Drug Misuse",3.44

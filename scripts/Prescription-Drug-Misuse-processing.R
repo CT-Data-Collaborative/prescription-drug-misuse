@@ -132,6 +132,9 @@ test$`Substate Region`[region_rows] <- gsub("$", " Region", test$`Substate Regio
 #rename US rows
 test$`Substate Region` <- gsub("Total ", "", test$`Substate Region`)
 
+#assign US MOE for 2004-2006 to zero
+test[test$`Substate Region` == "United States" & is.na(test)] <- 0
+
 #Calculate MOE from upper and lower bounds
 test[] <- lapply(test, gsub, pattern = "\\(", replacement = "")
 test[] <- lapply(test, gsub, pattern = "\\)", replacement = "")
@@ -178,6 +181,8 @@ all_data_final <- all_data_long %>%
   select(`Substate Region`, Year, `Age Range`, `Prescription Drug Misuse`, `Measure Type`, Variable, Value) %>% 
   rename(Region = `Substate Region`) %>% 
   arrange(Region, Year, `Age Range`, `Prescription Drug Misuse`, Variable)
+
+all_data_final$Value <- round(as.numeric(all_data_final$Value), 2)
 
 # Write to File
 write.table(

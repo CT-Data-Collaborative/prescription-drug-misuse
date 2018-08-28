@@ -172,7 +172,102 @@
     }  
   },
   "spot_checks": [
-
+    {
+      "type": "$lookup",
+      "filter": {
+        "Region": "United States",
+        "Year": "2004-2006",
+        "Age Range": "12-17",
+        "Prescription Drug Misuse": "Nonmedical Use of Pain Relievers in the Past Year",
+        "Measure Type": "Percent",        
+		 		"Variable": "Margins of Error"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "float",
+        "value": 0.00
+      } 
+    },
+    {
+      "type": "$lookup",
+      "filter": {
+        "Region": "Eastern Region",
+        "Year": "2006-2008",
+        "Age Range": "18-25",
+        "Prescription Drug Misuse": "Nonmedical Use of Pain Relievers in the Past Year",
+        "Measure Type": "Percent",        
+		 		"Variable": "Prescription Drug Misuse"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "float",
+        "value": 11.27
+      } 
+    },
+    {
+      "type": "$lookup",
+      "filter": {
+        "Region": "Northeast",
+        "Year": "2008-2010",
+        "Age Range": "Over 17",
+        "Prescription Drug Misuse": "Nonmedical Use of Pain Relievers in the Past Year",
+        "Measure Type": "Percent",        
+		 		"Variable": "Margins of Error"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "float",
+        "value": 0.25
+      } 
+    },
+    {
+      "type": "$lookup",
+      "filter": {
+        "Region": "Northwestern Region",
+        "Year": "2010-2012",
+        "Age Range": "Over 25",
+        "Prescription Drug Misuse": "Nonmedical Use of Pain Relievers in the Past Year",
+        "Measure Type": "Percent",        
+		 		"Variable": "Prescription Drug Misuse"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "float",
+        "value": 3.44
+      } 
+    },
+    {
+      "type": "$lookup",
+      "filter": {
+        "Region": "Connecticut",
+        "Year": "2012-2014",
+        "Age Range": "12-17",
+        "Prescription Drug Misuse": "Nonmedical Use of Pain Relievers in the Past Year",
+        "Measure Type": "Percent",        
+		 		"Variable": "Prescription Drug Misuse"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "float",
+        "value": 3.69
+      } 
+    },
+    {
+      "type": "$lookup",
+      "filter": {
+        "Region": "Southwest Region",
+        "Year": "2012-2014",
+        "Age Range": "18-25",
+        "Prescription Drug Misuse": "Nonmedical Use of Pain Relievers in the Past Year",
+        "Measure Type": "Percent",        
+		 		"Variable": "Margins of Error"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "float",
+        "value": 2.13
+      } 
+    }
   ],
   "dimension_groups": [
     {
